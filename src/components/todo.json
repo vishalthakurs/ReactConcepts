@@ -1,0 +1,25 @@
+[{
+    "userId":1,
+    "name":"Vishal singh",
+    "email":"vishal@gmail.com",
+    "Mobile":9999
+},
+{
+    "userId":2,
+    "name":"rabdom singh",
+    "email":"rabd@gmail.com",
+    "Mobile":9994
+},
+{
+    "userId":3,
+    "name":"abc singh",
+    "email":"abc@gmail.com",
+    "Mobile":9999
+},
+{
+    "userId":4,
+    "name":"iyu singh",
+    "email":"ghuh@gmail.com",
+    "Mobile":9999
+}
+]
