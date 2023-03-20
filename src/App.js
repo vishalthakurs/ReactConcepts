@@ -7,6 +7,7 @@ import "./App.css";
 import React from "react";
 import Dele from "./components/APIExamples/Dele";
 import PostExample from "./components/APIExamples/PostExample";
+import Previous from "./components/Previous";
 // import RefCla from "./components/ClassCompo/RefCla";
 // import UsRef from "./components/UsRef";
 // import ForwardRefExa from "./components/ForwardRefExa";
@@ -186,7 +187,8 @@ const [name,setName]=useState('Vishal')
       {/* <Routing /> */}
       {/* <GetExample /> */}
       {/* <PostExample /> */}
-      <Dele />
+      {/* <Dele /> */}
+      <Previous />
     </div>
   )
  }
